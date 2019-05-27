@@ -1,0 +1,16 @@
+# 隐写套路
+
+
+
+1. PNG BMP 隐写
+
+```
+gem install zsteg
+
+zsteg /path/to/your/picture
+```
+
+
+
+
+
